@@ -1,4 +1,6 @@
-# Мой проект тестового задания для компании 'Effective Mobile'<img src="https://img.hhcdn.ru/employer-logo/6335023.png" width="50" height="50"> на позицию 'Junior Backend Developer (Python)'
+# Мой проект тестового задания  
+# для компании 'Effective Mobile'<img src="https://img.hhcdn.ru/employer-logo/6335023.png" width="50" height="50">  
+# на позицию 'Junior Backend Developer (Python)'
 
 Данный проект разработан с использованием стандартной библиотеки языка Python  
 Данный проект разработан в ООП стиле
