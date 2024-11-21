@@ -99,3 +99,8 @@ class Biblioteka:
                 self.reserve.append(Book(title, author, year))
                 if elem.split()[4] != 'в':
                     self.reserve[-1].status = 'выдана'
+
+    def drop_base(self) -> None:
+        """Функция удаляет все книги в библиотеке и обнуляет id книг"""
+        self.reserve = []
+        Book._id_counter = 1
